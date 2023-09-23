@@ -1,19 +1,9 @@
 {
-  "name": "javascript-express-api",
+  "name": "node.js-v2",
   "version": "1.0.0",
-  "description": "Ampt JavaScript Express API template",
-  "private": true,
-  "main": "index.js",
-  "type": "module",
+  "description": "",
   "scripts": {
-    "start": "ampt"
+    "start": "node index.js"
   },
-  "dependencies": {
-    "@ampt/sdk": "latest",
-    "express": "^4.18.2"
-  },
-  "ampt": {
-    "app": "javascript-express-api",
-    "org": "git309726"
-  }
+  "main": "index.js"
 }
